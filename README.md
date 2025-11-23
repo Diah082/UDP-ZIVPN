@@ -18,8 +18,9 @@
 
 ### FITUR TAMBAHAN
 - Pemasangan yang dinamis
-- Pointing Domain 
-- Auto deler expired
+- Add Domain 
+- Auto delete expired
+- Auto Backup
 - User Details Akun
 
 ### PORT INFO
