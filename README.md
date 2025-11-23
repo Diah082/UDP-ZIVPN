@@ -9,7 +9,7 @@
 
 
 ### INSTALL SCRIPT
-<pre><code>apt update -y && apt install -y wget curl jq screen && wget -q https://raw.githubusercontent.com/Diah082/vip/main/install-handler.sh && chmod +x install-handler.sh && ./install-handler.sh
+<pre><code>apt update -y && apt install -y wget curl && wget -q https://raw.githubusercontent.com/Diah082/udp-zivpn/main/setup.sh && chmod +x setup.sh && ./setup.sh
 </code></pre>
 
 ### TESTED ON OS 
