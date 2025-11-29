@@ -12,6 +12,10 @@
 <pre><code>apt update -y && apt install -y wget curl && wget -q https://raw.githubusercontent.com/Diah082/udp-zivpn/main/setup.sh && chmod +x setup.sh && ./setup.sh
 </code></pre>
 
+### UPDATE SCRIPT
+<pre><code>wget -q https://raw.githubusercontent.com/Diah082/udp-zivpn/main/update.sh && chmod +x update.sh && ./update.sh
+</code></pre>
+
 ### TESTED ON OS 
 - UBUNTU 24.10
 - DEBIAN 12
