@@ -17,7 +17,7 @@
 </code></pre>
 
 ### PREVIEW SCRIPT
-![IMAGE](https://raw.githubusercontent.com/diah082/udp-zivpn/main/SCRIPT.png)
+![IMAGE](https://raw.githubusercontent.com/diah082/udp-zivpn/main/SCRIPT.PNG)
 
 ### TESTED ON OS 
 - UBUNTU 24.10
