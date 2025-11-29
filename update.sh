@@ -1,5 +1,5 @@
 #!/bin/bash
-
+pkill menu
 set -euo pipefail
 
 # ======= WARNA =======
