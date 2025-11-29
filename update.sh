@@ -10,12 +10,6 @@ YELLOW="\e[33m"
 BLUE="\e[36m"
 RESET="\e[0m"
 
-# ======= HEADER =======
-echo -e "${BLUE}========================================${RESET}"
-echo -e "${BLUE}        ZIVPN AUTO UPDATER              ${RESET}"
-echo -e "${BLUE}========================================${RESET}"
-echo ""
-
 # ======= DETEKSI ARCH =======
 ARCH=$(uname -m)
 case "$ARCH" in
@@ -78,9 +72,5 @@ echo -e "${YELLOW}🔧 Running installer update...${RESET}"
 
 $DEST --update
 
-echo ""
-echo -e "${GREEN}========================================${RESET}"
-echo -e "${GREEN}     ✔ UPDATE PROCESS COMPLETED!       ${RESET}"
-echo -e "${GREEN}========================================${RESET}"
 echo -e "${BLUE}You may now run : ${RESET} menu"
 echo ""
