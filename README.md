@@ -16,6 +16,9 @@
 <pre><code>wget -q https://raw.githubusercontent.com/Diah082/udp-zivpn/main/update.sh && chmod +x update.sh && ./update.sh
 </code></pre>
 
+### PREVIEW SCRIPT
+![IMAGE](https://raw.githubusercontent.com/diah082/udp-zivpn/main/SCRIPT.png)
+
 ### TESTED ON OS 
 - UBUNTU 24.10
 - DEBIAN 12
