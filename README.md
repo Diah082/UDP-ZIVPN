@@ -19,12 +19,16 @@
 ### PREVIEW SCRIPT
 ![IMAGE](https://raw.githubusercontent.com/diah082/udp-zivpn/main/SCRIPT.PNG)
 
+## 📘 API Documentation
+Lihat dokumentasi lengkap di sini 👉 [API Documentation](./zivpn_api.md)
+
 ### TESTED ON OS 
 - UBUNTU 24.10
 - DEBIAN 12
 
 ### FITUR TAMBAHAN
 - Pemasangan yang dinamis
+- API Server
 - Add Domain 
 - Auto delete expired
 - Auto Backup
