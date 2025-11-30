@@ -28,6 +28,7 @@
 - Add Domain 
 - Auto delete expired
 - Auto Backup
+- Auto Clear LOG
 - User Details Akun
 
 ### PORT INFO
