@@ -183,7 +183,7 @@ Perpanjang masa aktif user.
 ### Query Parameters
 | Nama | Wajib |
 |------|--------|
-| user | Ja |
+| user | Ya |
 | days | Ya |
 
 ### Response
