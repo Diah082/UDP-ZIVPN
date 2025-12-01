@@ -28,6 +28,7 @@ Lihat dokumentasi lengkap di sini 👉 [API Documentation](./zivpn_api.md)
 
 ### FITUR TAMBAHAN
 - Pemasangan yang dinamis
+- Notifikasi Backup To Email
 - API Server
 - Add Domain 
 - Auto delete expired
