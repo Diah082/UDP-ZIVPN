@@ -11,11 +11,14 @@ https://raw.githubusercontent.com/diah082/izinudpzi/main/api_allow
 
 ---
 
-# 📌 Base URL
+# 📌 Base URL WITHOUT DOMAIN
 ```
 http://YOUR-SERVER-IP:8081
 ```
-
+# 📌 Base URL WITH DOMAIN
+```
+https://YOUR-DOMAIN-SERVER
+```
 ---
 
 # 🔐 Authorization (IP Whitelist)
